@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi there👋, I'm Trushang Suthar</h1>
+<h3 align="center"> Team Lead / Senior Software Software Engineer </h3>
 
-<!--
-**trushang-dev/trushang-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m currently spending some time creating [**AWS Architectures**]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left"> Core Competencies: </h3>
+
+- **Cloud Solutions:** Expertise in architecting and deploying scalable cloud environments on AWS.
+- **DevOps Practices:** Continuous integration, continuous delivery, automated testing, infrastructure as code, containerization.
+- **Leadership:** Mentoring and coaching team members, fostering a collaborative environment for high-impact projects.
+- **Problem Solving:** Strong analytical and debugging skills, with a focus on delivering elegant solutions to complex technical challenges.
+- **Collaboration:** Proven ability to work with cross-functional teams, clients, and stakeholders to deliver timely and efficient solutions.
+
+
+
+<h3 align="center"> My Projects and Technology Landscape </h3>
+
+| Domain                       | Skills/Tools                                                                      | Projects                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cloud**                    | AWS                                                                               | - Deployed a web application using AWS EC2 and S3.<br>- Managed scalability using AWS Auto Scaling.                                                                                                                                                                                                                                                                        |
+| **Orchestration**            | - Kubernetes<br>- AWS ECS                                                         | - Orchestrated microservices using Kubernetes.<br>- Migrated legacy applications to AWS ECS.                                                                                                                                                                                                                           |
+| **Infrastructure as Code**   | Terraform                                                                         | - Automated cloud infrastructure deployment using Terraform.<br>- Configured VPC and security groups for an enterprise application.                                                                                                                                                                                                 |
+| **Server Templating**        | Docker                                                                            | - Containerized a Node.js application using Docker.<br>- Built custom Docker images for microservices.                                                                                                                                                                                                                 |
+| **CI/CD**                    | - AWS CodePipeline, CodeBuild, CodeDeploy.<br> - Jenkins<br> - Github Actions<br> | - Set up automated deployment pipelines using AWS CodePipeline.<br>- Created Jenkins pipelines for CI/CD workflows.<br>- Configured GitHub Actions for testing and deployment.                                                                                                                                                 |
+| **Programming Languages**    | - JavaScript<br>- Golang<br>- Python<br>- C++                                     | - Developed backend services in Golang.<br>- Built RESTful APIs using JavaScript and Node.js.<br>- Scripted automation tasks in Python.                                                                                                                                                                                      |
+| **Monitoring**               | Prometheus, Grafana, CloudWatch                                                   | - Set up Prometheus for application monitoring.<br>- Integrated Grafana for data visualization.<br>- Configured CloudWatch alarms for AWS resources.                                                                                                                                                                 |
+| **Scripting**                | - Bash/Shell<br>- Python                                                          | - Wrote custom shell scripts for system administration.<br>- Developed Python scripts for data processing tasks.                                                                                                                                                                                                      |
+| **SCM**                      | GitHub, Gitlab, CodeCommit                                                        | - Managed code repositories on GitHub and Gitlab.<br>- Implemented Git workflows and pull request strategies.                                                                                                                                                                                                         |
+| **Configuration Management** | Ansible                                                                           | - Automated server configuration using Ansible.<br>- Managed environment consistency across multiple servers.                                                                                                                                                                                                      |
+| **Servers**                  | Nginx, Apache                                                                     | - Set up Nginx as a reverse proxy server.<br>- Configured Apache for a high-traffic web application.                                                                                                                                                                                                                  |
+| **Service Mesh**             | - Istio _(In Progress)_                                                           | - Exploring Istio for service-to-service communication in Kubernetes.                                                                                                                                                                                                                                                |
+| **Databases**                | - MySQL, DynamoDB, RDS                                                            | - Worked with MySQL for relational data management.<br>- Integrated DynamoDB for a NoSQL solution in AWS.<br>- Managed RDS databases for cloud-based applications.                                                                                                                                                       |
+
+- 💬 Ask me about **PHP, Laravel, WordPress, AWS**
+
+- 📫 How to reach me **trushang.dev@gmail.com**
+
+- ⚡ Fact about me: **Code is like a puzzle—sometimes you just need to step back, take a breath, and the solution clicks.**
+
+### My Recent Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Linux File Permissions: A Guide for Developers](https://trushang-dev.hashnode.dev/understanding-linux-file-permissions-a-guide-for-developers)
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_tejasmane" height="30" width="40" /></a>
+    <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+
